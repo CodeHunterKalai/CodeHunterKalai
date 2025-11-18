@@ -33,10 +33,10 @@ I focus on writing clean, efficient code and delivering end-to-end features that
 ### 🔨 Languages and Tools:
 <!-- Tech stack -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html5/html5.svg" alt="HTML5" height="42px"/>
+  <img align="left" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" height="42px"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css3/css3.svg" alt="CSS3" height="42px"/>
+  <img align="left" src="https://img.icons8.com/color/48/css3.png" alt="CSS3" height="42px"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" alt="JavaScript" height="42px"/>
@@ -57,16 +57,23 @@ I focus on writing clean, efficient code and delivering end-to-end features that
   <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/spring/spring.svg" alt="Spring Boot" height="42px"/>
 </a>
 <a href="https://restfulapi.net/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/api/api.svg" alt="RESTful API" height="42px"/>
+  <img align="left" src="https://img.icons8.com/arcade/64/api.png" alt="RESTful API" height="42px"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mysql/mysql.svg" alt="MySQL" height="42px"/>
+  <img align="left" src="https://img.icons8.com/fluency/96/my-sql.png" alt="MySQL" height="42px"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mongodb/mongodb.svg" alt="MongoDB" height="42px"/>
+  <img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB" height="42px"/>
 </a>
 <a href="https://www.postman.com/" target="_blank">
-  <img align="left" src="[https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/postman/postman.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5yPOAbr-LrEa8ANO47RBo4f2txsvjPL-fw&s)" alt="Postman" height="42px"/>
+  <img align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" height="42px"/>
+
+
+
+<!-- <img width="64" height="64" src=""/> -->
+
+
+  
 </a>
 
 <div style="clear: both;"></div>
@@ -75,20 +82,20 @@ I focus on writing clean, efficient code and delivering end-to-end features that
 <br>
 
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<!--### 📊 Github Stats
+<!-- <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
-<br>
+<br> -->
 
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<!--### 🛠️ My Projects
+<!-- <a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
 <a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
 <a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a> -->
