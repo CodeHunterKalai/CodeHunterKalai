@@ -6,7 +6,6 @@
 
 I’m a full-stack developer skilled in building responsive UIs and scalable backend systems. I work with
 🟦 React for frontend
-🟩 Node.js for backend
 ☕ Java / Spring Boot for enterprise applications
 🗄️ MySQL and MongoDB for databases
 I focus on writing clean, efficient code and delivering end-to-end features that actually work. I’m looking for an opportunity where I can contribute quickly, learn fast, and grow into a strong full-stack engineer.
@@ -18,7 +17,6 @@ I focus on writing clean, efficient code and delivering end-to-end features that
 
 ### 🔧 Tech Skills
 - ⚛️ React for frontend development  
-- 🟩 Node.js & Express for backend APIs  
 - ☕ Java & Spring Boot for enterprise applications  
 - 🗄️ MySQL & MongoDB for databases  
 - 🧰 Git, GitHub, REST APIs, Authentication, JWT 
