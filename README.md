@@ -46,8 +46,7 @@ I focus on writing clean, efficient code and delivering end-to-end features that
   <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="React" height="42px"/>
 </a>
 <a href="https://nodejs.org/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" alt="Node.js" height="42px"/>
-</a>
+  
 <a href="https://www.java.com/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="Java" height="42px"/>
 </a>
