@@ -21,10 +21,9 @@ I focus on writing clean, efficient code and delivering end-to-end features that
 - 🗄️ MySQL & MongoDB for databases  
 - 🧰 Git, GitHub, REST APIs, Authentication, JWT 
 - 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/CodeHunterKalai)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kalaiyarasan-c)
 
 <br>
 
